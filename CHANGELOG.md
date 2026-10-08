@@ -2,6 +2,11 @@
 
 All notable changes to this integration.
 
+## [1.8.5] - 2026-10-08
+
+### Fixed
+- Fix startup on Home Assistant 2026.10 by allowing OpenAI SDK 3.x.
+
 ## [1.8.4] - 2026-09-04
 
 Web search moves off the shared Home Assistant API list onto the agent that owns it. An agent that had it selected keeps it — the setting moves for you.
